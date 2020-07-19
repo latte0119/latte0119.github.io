@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>latte0119/blog</title>
@@ -7,17 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 19 Jul 2020 22:54:41 +0900</lastBuildDate>
-    
-	<atom:link href="http://latte0119.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://latte0119.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ブログ 作った</title>
       <link>http://latte0119.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 19 Jul 2020 22:54:41 +0900</pubDate>
-      
       <guid>http://latte0119.github.io/posts/my-first-post/</guid>
-      <description>hugo すごいと話題に すご〜い</description>
+      <description>&lt;h1 id=&#34;hugo-すごいと話題に&#34;&gt;&lt;strong&gt;hugo&lt;/strong&gt; すごいと話題に&lt;/h1&gt;
+&lt;p&gt;すご〜い&lt;/p&gt;
+</description>
     </item>
     
   </channel>
