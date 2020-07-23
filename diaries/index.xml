@@ -6,10 +6,23 @@
     <description>Recent content in Diaries on latte0119/blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2020 00:45:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 01:25:32 +0900</lastBuildDate>
     
 	<atom:link href="https://latte0119.github.io/diaries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 07 23</title>
+      <link>https://latte0119.github.io/diaries/2020-07-23/</link>
+      <pubDate>Fri, 24 Jul 2020 01:25:32 +0900</pubDate>
+      
+      <guid>https://latte0119.github.io/diaries/2020-07-23/</guid>
+      <description>人生 朝3時 朝ご飯 松屋
+帰宅 眠くなる 寝る
+昼 起きる ぼーっとしてたら夕方になっていて焦る
+golang openweatherapiを触りつつyoutube見ていたら一日終わった
+私の人生，なに？</description>
+    </item>
     
     <item>
       <title>2020/07/22</title>
